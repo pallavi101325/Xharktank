@@ -1,0 +1,10 @@
+com\example\sharktank\service\PitchService.class
+com\example\sharktank\repository\PitchesRepository.class
+com\example\sharktank\models\AddOfferRequest.class
+com\example\sharktank\models\Pitch.class
+com\example\sharktank\models\AddPitchRequest.class
+com\example\sharktank\repository\OffersRepository.class
+com\example\sharktank\SharktankApplication.class
+com\example\sharktank\models\Offer.class
+com\example\sharktank\models\PitchResponse.class
+com\example\sharktank\controller\PitchesController.class
